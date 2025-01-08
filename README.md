@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pappu Kumar Mahto</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [TechTube](https://github.com/pappu-kumar-mahto/TechTube)
+- 🔭 I’m currently working on [Daikin Applications](http://amsfbnuat:8080/rci/)
 
-- 🌱 I’m currently learning **ReactJs, React-Redux**
+- 🌱 I’m currently learning **Angular C# .NET**
 
 - 👨‍💻 All of my projects are available at [https://pappumahtoportfolio.netlify.app/](https://pappumahtoportfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, Vite**
+- 💬 Ask me about **JavaScript, TypeScript, Css, React, NextJs, Vite**
 
 - 📫 How to reach me **pappukumar.mahto@gmail.com**
 
